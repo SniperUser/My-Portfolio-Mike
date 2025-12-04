@@ -2497,6 +2497,13 @@ section,
     color-mix(in srgb, var(--default-color), transparent 90%);
 }
 
+/*to center contact w/ address*/
+.center-wrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
 .contact .info-item .icon-wrapper {
   width: 50px;
   height: 50px;
